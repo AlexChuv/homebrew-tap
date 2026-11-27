@@ -1,6 +1,6 @@
 cask "plan-shelf" do
-  version "0.1.6"
-  sha256 "0a022ad0741d8b0db5cb5c86d7307fb0a1eda98452d0ada456f74941e08b8de5"
+  version "0.1.7"
+  sha256 "efd34c67b6a215208995e9f3260eadeb5e9b50ac91b1ec7f6d24863ca391c727"
 
   url "https://github.com/AlexChuv/plan-shelf-releases/releases/download/v#{version}/Plan-Shelf-#{version}.zip"
   name "Plan Shelf"
